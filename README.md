@@ -1,2 +1,2 @@
-# ITCC1316
+# ITSC1316
 INEX class
